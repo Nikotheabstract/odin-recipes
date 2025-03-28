@@ -1,0 +1,18 @@
+#title {
+    text-align: center;
+    background-color: rgb(173, 249, 255);
+    color: black;
+    font-family: "Times New Roman", sans-serif;
+    font-weight: 600;    
+}
+
+.header {
+    color: rgb(173, 249, 255);
+    font-weight: 400;
+}
+
+a {
+    color: yellow;
+    font-size: 20px;
+}
+
