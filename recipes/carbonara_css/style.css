@@ -3,14 +3,32 @@
     color: rgb(255, 218, 92);
     background-color: black;
     font-family: "Times New Roman", sans-serif;
-    font-weight: 600;    
+    font-weight: 600;
 }
-.header {
+
+
+h2 {
     color:white;
     font-weight: 400;
+    padding-left: 30px;
+    font-size: 30px;
 }
 
 a {
     color: white;
     font-size: 15px;
+}
+
+.image-cont, .text-cont {
+    display: inline-block;
+    margin-left: 40px;
+}
+
+.text-cont {
+    max-width: 650px;
+    vertical-align: top;
+}
+
+.header {
+    text-align: center;
 }

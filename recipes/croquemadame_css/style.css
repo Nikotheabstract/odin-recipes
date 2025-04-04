@@ -1,18 +1,30 @@
-#title {
+h1 {
     text-align: center;
     background-color: rgb(173, 249, 255);
     color: black;
     font-family: "Times New Roman", sans-serif;
-    font-weight: 600;    
+    font-weight: 600;
+    
+       
 }
 
-.header {
+h2 {
     color: rgb(173, 249, 255);
     font-weight: 400;
+    padding-left: 30px;
 }
 
 a {
     color: yellow;
-    font-size: 20px;
+    font-size: 15px;
 }
 
+.image-cont, .text-cont {
+    display:inline-block;
+    margin-left: 40px;
+}
+
+
+.header {
+    text-align: center;
+}

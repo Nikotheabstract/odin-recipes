@@ -1,29 +1,40 @@
 #description {
-    color: rgb(70, 0, 225);
+    color: white;
     font-size: 28px;
+    text-align: center;
+    background-color: green;
+    margin: auto 30px;
+    border: 3px solid black;
 }
 
 #odin {
+    box-sizing: border-box;
     text-align: center;
+    background-image: url(https://www.foodregulation.gov.au/sites/default/files/2024-06/food-regulation.jpg);
+    padding: 30px 10px;
+    color: white;
+    border: 3px solid black;
+    margin: 10px 30px;
 }
 
 .linka {
     font-size: 20px;
     color: black;
+    margin-right: 1000px;
+}
+
+
+.class1 {
     
 }
 
-.class1 {
-    background-color: rgb(173, 249, 255);
-}
-
 .class2 {
-    background-color: rgb(255, 218, 92);
+    
     
 }
 
 .class3 {
-    background-color: rgb(230, 194, 240);
+    
 }
 
 

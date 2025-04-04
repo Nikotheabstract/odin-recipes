@@ -3,14 +3,34 @@
     background-color: white;
     font-family: "Timew New Roman", sans-serif;
     font-weight: 600;
-
+    border: 5px solid rgb(98, 0, 222)
 }
 
-.header {
-    color: white;
+h2 {
+    background-color: white;
+    font-weight: 400;
+    padding-left: 30px;
+    font-size: 30px;
+    border: 5px solid rgb(98, 0, 222)
 }
 
 a {
     color: white;
     font-size: 15px;
+}
+
+.image-cont, .text-cont {
+    display: inline-block;
+    margin-left: 40px;
+}
+
+.text-cont {
+    vertical-align: top;
+    font-size: 20px;
+}
+
+.header {
+    text-align: center;
+    margin-left: 520px;
+    margin-right: 520px;
 }
